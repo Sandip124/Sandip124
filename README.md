@@ -1,5 +1,5 @@
 
-[![Greet Me](https://greethub.glitch.me/?greet=true)](https://github.com/Sandip124)  
+[![Greet Me](https://greethub.glitch.me/?greet=true)](https://github.com/Sandip124/GreetHub)  
 
 
 ### Hi developers good to see you here. 👋
