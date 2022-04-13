@@ -1,6 +1,8 @@
 
 [![Greet Me](https://greethub.glitch.me/?greet=true)](https://github.com/Sandip124/GreetHub)  
 
+*Please Reolad if image is broken*
+
 
 ### Hi developers good to see you here. 👋
 - 🔭 I’m currently building stuffs using C#, Dotnet Core, Winforms and  Html as well.
