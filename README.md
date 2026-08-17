@@ -1,6 +1,4 @@
 
-[![@sandip124's Holopin board](https://holopin.me/sandip124)](https://holopin.io/@sandip124)
-
 <h1 align="center">Hi, I'm Sandip Choudhary 👋</h1>
 <h3 align="center">Senior .NET/C# Engineer · Copenhagen 🇩🇰</h3>
 
