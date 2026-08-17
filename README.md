@@ -13,7 +13,6 @@
 
 - 🎓 MSc in Computer Science, IT University of Copenhagen (ITU)
 - ⚙️ 6+ years building multi-tenant **ERP, POS, and inventory systems** in production
-- 🔬 Thesis: benchmarked JIT compilation across **V8, JavaScriptCore, and SpiderMonkey**, supervised by Prof. Peter Sestoft
 - 🧩 Deep interest in **.NET, JIT compilation and AI **
 - 🚀 Currently exploring Software Engineering with AI
 
