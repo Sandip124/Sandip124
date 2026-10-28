@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Sandip Choudhary 👋</h1>
-<h3 align="center">Senior Fullstack Engineer · Copenhagen 🇩🇰</h3>
+<h3 align="center">Fullstack Engineer · Copenhagen 🇩🇰</h3>
 
 <p align="center">
   Building production systems for 6+ years, from multi-tenant ERP and POS platforms<br/>
