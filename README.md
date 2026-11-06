@@ -22,7 +22,7 @@
 
 | Project | Description |
 |---|---|
-| **[BatteryNotifier](https://batterynotifier.com)** | Cross-platform battery notification app built with Avalonia UI/.NET — 70+ ⭐ on GitHub, distributed via `winget` and `Homebrew`, with a full CI/CD pipeline including code-signing for OSS releases |
+| **[BatteryNotifier](https://batterynotifier.com)** | Cross-platform battery notification app built with Avalonia UI/.NET, distributed via `winget` and `Homebrew`, with a full CI/CD pipeline including code-signing for OSS releases |
 
 ---
 
